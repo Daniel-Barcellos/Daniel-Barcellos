@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="matrix-gif.gif" width="100%" height="150px" />
+</p>
 # Olá! Eu sou o Daniel 👋
 
 💻 Desenvolvedor em transição para Cibersegurança | Formado em ADS pela UNISUAM  
