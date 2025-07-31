@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400px" />
-</p>
 
 # Olá! Eu sou o Daniel 👋
 
@@ -32,11 +29,6 @@ Atualmente estou estudando segurança ofensiva e análise de logs (SOC Level 1) 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
 ✉️ danielr.v.barcellos@gmail.com
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300px" height="500px" />
-</p>
-
 ---
 
 <p align="center">
