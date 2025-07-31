@@ -34,11 +34,11 @@ Atualmente estou estudando segurança ofensiva e análise de logs (SOC Level 1) 
 ✉️ danielr.v.barcellos@gmail.com
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="350px" />
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300px" height="500px" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Daniel-Barcellos&show_icons=true&theme=radical" />
 </p>
