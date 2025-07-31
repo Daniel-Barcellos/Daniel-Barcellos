@@ -30,7 +30,8 @@ Atualmente estou estudando segurança ofensiva e análise de logs (SOC Level 1) 
 ---
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil) www.linkedin.com/in/daniel-rv-barcellos
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-rv-barcellos)
+
 ✉️ danielr.v.barcellos@gmail.com
 ---
 
